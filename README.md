@@ -1,5 +1,6 @@
 # file-tree
-Details
+# Description: EPAM software development educational project
+# Details
 
 
 Implement the tree method in FileTreeImpl class.
