@@ -1,5 +1,6 @@
 # file-tree
-# Description: EPAM software development educational project
+# Description: 
+EPAM's software development educational task of Java UpSkillMe Course.
 # Details
 
 
