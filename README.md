@@ -1,6 +1,6 @@
 # file-tree
 # Description: 
-EPAM's software development educational task of Java UpSkillMe Course.
+Build a String representation of directory hierarchy under a given path
 # Details
 
 
